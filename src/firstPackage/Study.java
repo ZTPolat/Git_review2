@@ -7,5 +7,7 @@ public class Study {
         System.out.println("Hi");
 
         System.out.println("My name is Rose!");
+
+        System.out.println("Please correct mistakes");
     }
 }
